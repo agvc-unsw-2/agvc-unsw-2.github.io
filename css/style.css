@@ -503,6 +503,12 @@ form .btn:focus {
 	max-height: 150px;
 }
 
+.our-logo {
+	max-width: 100%;
+	max-height: 600px;
+}
+
+
 #testimonials blockquote{
 	text-align: center;
 }
