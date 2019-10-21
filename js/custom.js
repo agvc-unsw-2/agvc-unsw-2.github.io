@@ -91,7 +91,7 @@ $(document).ready(function() {
 
 	$("#home, #terms").backstretch([
 		"img/03_UNSW_Robot_Team5.JPG",
-		"img/group_engsoc.jpg",
+		//"img/group_engsoc.jpg",
 		"img/group_josh.jpg",
 		"img/IMG_0712_c.JPG",
 		"img/IMG_2003.JPG",
